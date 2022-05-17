@@ -1,8 +1,10 @@
 Opensea, Rarible and Coinbase NFT marketplace nft sniper bot, feel free to fork and improve or whatever. 
 you should be able to modify it to work on various exchanges
 if you fork and modify please give credit
-This is a tutorial to help run and my 30day review of the opensea raribles coinbase nft sniper bot (javascript version).
 
+This is a video tutorial to help run and my 30day review of the opensea raribles coinbase nft sniper bot (javascript version).
+
+https://youtu.be/_SLIfaJ7SeA
 
 you can download the the Bot here
 
