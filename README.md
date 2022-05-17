@@ -30,10 +30,12 @@ Open the bot folder find "config.js" file and open it with a text-editor:
 //for the opensea collection name "https://opensea.io/collection/boredapeyachtclub" <- take this part of the url for example: "boredapeyachtclub"
 //for the Raribles "https://rarible.com/boredapeyachtclub/items" <- take this part of the url for example: "boredapeyachtclub"
 //for the coinbaseNFT "https://nft.coinbase.com/collection/ethereum/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D" <- take this part of the url for example: "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D"
+
+
 Happy hunting! :)
 
 And When you make a big win and if you fill like thanking me my eth/bnb/polygon address is 0x2431bec69aa4699ad9A9aE77233F7bdcD6d631f8
-
+<img src="https://i.ibb.co/2MNm2SP/Screenshot04-17-2022.png" alt="Screenshot04-17-2022" border="0">
 
 # JavaScript-opensea-rarible-coinbase-nft-sniper-bot
 JavaScript OpenSea , Rarible and Coinbase NFT marketplace Sniper Bot
